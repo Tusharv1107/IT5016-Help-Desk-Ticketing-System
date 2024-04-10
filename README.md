@@ -9,7 +9,7 @@ Navigate to the directory containing the source code.
 Open a terminal or command prompt.
 Run the Software_Project.py file using the command python Software_Project.py.
 
-Note : For detailed technical documentation and code explanation, refer to the source code and inline comments in the Software_project file.
+Note : For detailed technical documentation and code explanation, refer to the source code and inline comments in the Software_Project file.
 
 
 
